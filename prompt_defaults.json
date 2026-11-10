@@ -1,0 +1,5 @@
+{
+  "reminders.route": "这条提醒已到期。只调用 shrink_deliver_reminder，delivery_id={{delivery_id}}。由该工具生成并发送提醒；你不要再用其他发消息工具或创建新任务。",
+  "reminders.compose": "现在有一条用户要求的提醒到期，请你直接写要发给用户的话。只提醒这件事，不调用工具，不声称做了其他操作。\n提醒内容：{{note}}\n原定时间：{{due}}\n延迟秒数：{{delay}}。超过90秒需自然说明提醒晚到了。",
+  "reminders.compose.system": "你是石英，使用自然中文提醒用户，不套固定回执。"
+}

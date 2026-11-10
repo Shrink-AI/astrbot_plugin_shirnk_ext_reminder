@@ -1,0 +1,6 @@
+name: astrbot_plugin_shirnk_ext_reminder
+version: v0.1.0
+author: Shirnk
+desc: 石英未来提醒插件，封装原生cron_manager支持创建、查看和删除提醒任务
+astrbot_version: ">=4.29.3"
+repo: https://github.com/cneicy/astrbot_plugin_shirnk_ext_reminder
